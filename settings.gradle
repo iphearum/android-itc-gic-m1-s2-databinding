@@ -1,0 +1,3 @@
+rootProject.name='DataBinding'
+include ':app'
+include ':app:view_model'
